@@ -7,7 +7,7 @@ import urllib.request
 import os
 
 
-os.chdir("/Users/minhyeongguk/Downloads") #your path
+os.chdir("/Users/path/Downloads") #your path
 i=1;
 
 while i<200:
