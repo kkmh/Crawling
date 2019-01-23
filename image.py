@@ -6,7 +6,7 @@ import os
 import requests
 
 
-os.chdir("/Users/minhyeongguk/Downloads/") #your path
+os.chdir("/Users/path/Downloads/") #your path
 i=1
 
 while i < 199:
